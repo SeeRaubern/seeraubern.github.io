@@ -1,0 +1,17 @@
+/*
+Windmill
+*/
+
+int val = 0;
+int old_val = 0;
+int state = 0;
+
+void setup() 
+{
+
+}
+
+void loop() 
+{
+
+}
